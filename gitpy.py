@@ -7,5 +7,5 @@ def secfun(x):
 
 #new comment added to this file.
 secfun(3)
-#chanres made by head
+#chages made by head
 
